@@ -1,0 +1,16 @@
+###############################################################################
+PARA INSTALAR OS MODULOS DO SISTEMA
+npm install
+###############################################################################
+
+
+###############################################################################
+Para instalar e configurar o gulp, segui o tutorial do link : https://travismaynard.com/writing/getting-started-with-gulp
+###############################################################################
+
+
+###############################################################################
+#PARA RESOLVER O PROBLEMA : "UNMET PEER DEPENDENCY jshint@2.x"
+Executei o comando : npm install --save-dev jshint gulp-jshint
+Encontrando no blog : http://kuebiko.blogspot.com.br/2016/01/gulp-jshint200-requires-peer-of.html
+###############################################################################
