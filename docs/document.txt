@@ -5,7 +5,16 @@ npm install
 
 
 ###############################################################################
+npm install -g gulp
+npm install --save-dev gulp
+
 Para instalar e configurar o gulp, segui o tutorial do link : https://travismaynard.com/writing/getting-started-with-gulp
+###############################################################################
+
+
+###############################################################################
+INSTALANDO OS PLUGIN QUE SERÃO UTILIZADOS PELO GULP
+npm install gulp-jshint gulp-sass gulp-concat gulp-uglify gulp-rename --save-dev
 ###############################################################################
 
 
