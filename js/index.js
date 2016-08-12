@@ -1,0 +1,3 @@
+function showOla(){
+	alert("Olá");
+} 

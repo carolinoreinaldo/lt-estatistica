@@ -23,3 +23,8 @@ npm install gulp-jshint gulp-sass gulp-concat gulp-uglify gulp-rename --save-dev
 Executei o comando : npm install --save-dev jshint gulp-jshint
 Encontrando no blog : http://kuebiko.blogspot.com.br/2016/01/gulp-jshint200-requires-peer-of.html
 ###############################################################################
+
+###############################################################################
+#PARA INSTALAR O AUTO RELOAD DO GULP
+Em construção
+###############################################################################
